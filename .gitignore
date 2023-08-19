@@ -1,0 +1,18 @@
+# Carpeta del entorno virtual
+hmwk_1/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración local (por ejemplo, para IDE)
+.idea/
+.vscode/
+
+# Archivos de registro y datos temporales
+*.log
+*.csv
+*.xlsx
+
+# Archivo de dependencias generado por pip
+requirements.txt
